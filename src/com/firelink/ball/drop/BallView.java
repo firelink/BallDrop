@@ -453,7 +453,7 @@ implements SurfaceHolder.Callback
 */
 		blocks = new Block[2];
 		blocks[0] = new Block(screenWidth/3, screenHeight/2, screenWidth/50);
-		blocks[0].setDestroyable(true);
+		blocks[0].setDestroyable(false);
 		blocks[1] = new Block(screenWidth - screenWidth/3, screenHeight/2, screenWidth/50);
 		blocks[1].setClipping(false);
 		
