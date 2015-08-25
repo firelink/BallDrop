@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Development\Android\BallDrop\app\src\main\assets"><file name="Down Arrows.png" path="D:\Development\Android\BallDrop\app\src\main\assets\Down Arrows.png"/><file name="launcher.png" path="D:\Development\Android\BallDrop\app\src\main\assets\launcher.png"/></source></dataSet><dataSet config="debug"><source path="D:\Development\Android\BallDrop\app\src\debug\assets"/></dataSet></merger>
